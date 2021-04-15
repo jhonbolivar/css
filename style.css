@@ -1,0 +1,181 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.log {
+
+    background-color:#2f2657;
+    height: 100px;
+
+   
+}
+
+.nav{
+    position: relative;
+    list-style: none;
+    text-align: right;
+    bottom: 60px;
+    right: 15px;
+   
+    
+}
+
+
+
+ li{
+    background-color: rosybrown;
+    display: inline-block;
+    font-size: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+  
+}
+
+figure img{
+    position: relative;
+    width: 30%;
+    height: 75px;
+    object-fit: cover;
+    border-radius: 25px;
+    top: 15px;
+    left: 8px;
+}
+
+.description{
+    font-size: 40px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    position: relative;
+    bottom: 50px;
+}
+
+.lista a{
+    text-decoration: none;
+    color: white;
+}
+
+.lista a:hover{
+    color: red;
+}
+.lista a:active{
+    color: seagreen;
+}
+#cuad-mayor{
+    
+    margin: 10px;
+    padding: 10px;
+}
+#cuad-mayor li{
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    background-color: red;
+}
+.cuadro1{
+ 
+    width: 200px;
+    height: 200px;
+    position: relative;
+    padding-left: 15px;
+    padding-right: 15px;
+    bottom:none;
+    border-radius: 25px;
+}
+.cuadro2{
+
+   
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom:none;
+    border-radius: 25px;
+}
+.cuadro5{
+  
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom:none;
+    border-radius: 25px;
+}
+.cuadro4{
+
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    bottom:none;
+    border-radius: 25px;
+}
+
+.the-dog{
+    width: 880px;
+    height: 0px;
+    position: relative;
+    left: 30%;
+    bottom: 600px;
+}
+
+.the-dog p{
+    display: inline-block;
+}
+
+.perro1{
+    background-color: red;
+    position: relative;
+    bottom:none;
+    border-radius: 25px;
+    width: 200px;
+    height: 200px;
+}
+
+.perro2{
+    background-color: royalblue;
+    position: relative;
+    bottom:none;
+    border-radius: 25px;
+    width: 200px;
+    height: 200px;
+}
+.perro3{
+    
+    background-color: salmon;   
+    position: relative;
+    bottom:none;
+    border-radius: 25px;
+    width: 200px;
+    height: 200px;
+}
+.perro4{
+    
+    background-color: seagreen;
+    position: relative;
+    bottom:none;
+    border-radius: 25px;
+    width: 200px;
+    height: 200px;
+}
+  
+footer{
+    background-color:#2f2657 ;
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 80px;
+}
+
+h1{
+    position: relative;
+    top: 20px;
+}
+   
+
